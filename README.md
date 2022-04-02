@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tesseract-Xie
 - 🌱 I’m currently learning in Shanghai Experimental School. __*High School Student*__.
 - 💞️ I’m **studying** to go to __Shanghai JiaoTong University CS/SE__
-- 📫 teeseract@gmail.com **[Watch out it's tees.... NO TYPOS]** 
+- 📫 2004tesseract@gmail.com
 - 📫 OR simonxie2004@163.com
 
 <!---
