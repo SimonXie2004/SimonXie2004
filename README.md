@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Tesseract-Xie
+- 👋 Hi, I’m @SimonXie2004
 - 🌱 awa awa awa ;w; ;w; ;w;
-- 💞️ I’m **studying**in  __ShanghaiTech University__
+- 💞️ I’m **studying** in  __ShanghaiTech University__
 - 📫 2004tesseract@gmail.com
 - 📫 OR simonxie2004@163.com
 
