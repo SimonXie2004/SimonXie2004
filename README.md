@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @SimonXie2004
-- 🌱 awa awa awa ;w; ;w; ;w;
+- 🌱 ^o^
 - 💞️ I’m **studying** in  __ShanghaiTech University__
 - 📫 2004tesseract@gmail.com
 - 📫 OR simonxie2004@163.com
+- 🐺 Mainly works for 3D-Reconstruction related repos.
+- 😢 Private commits mainly ;w;
 
 <!---
 Tesseract-Xie/Tesseract-Xie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
