@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @SimonXie2004
 - 🐯 ^o^
 - 💞️ I’m **studying** in  __ShanghaiTech University__
-- 📫 2004tesseract@gmail.com
-- 📫 OR simonxie2004@163.com
+- 📫 simonxie2004@berkeley.edu
+- 📫 OR xiesy2022@shanghaitech.edu.cn
 - 🐺 Mainly works for 3D-Reconstruction related repos.
 - 😢 Private commits mainly ;w; ALSO, Commits to "github classroom" aren't taken into commit count.
 
