@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @SimonXie2004
+- 📫 simonxie2004@berkeley.edu / xiesy2022@shanghaitech.edu.cn
+- 🐺 Interested in 3D-Reconstruction & Generation Topics (For now)
 - 🐯 ^o^
-- 💞️ I’m **studying** in  __ShanghaiTech University__
-- 📫 simonxie2004@berkeley.edu
-- 📫 OR xiesy2022@shanghaitech.edu.cn
-- 🐺 Mainly works for 3D-Reconstruction related repos.
-- 😢 Private commits mainly ;w; ALSO, Commits to "github classroom" aren't taken into commit count.
 
 <!---
 Tesseract-Xie/Tesseract-Xie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
