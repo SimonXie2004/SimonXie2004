@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @SimonXie2004
 - 📫 simonxie2004@berkeley.edu / xiesy2022@shanghaitech.edu.cn
-- 🐺 Interested in 3D-Reconstruction & Generation Topics (For now)
+- 🌐 My blog: [simonxie2004.github.io](https://simonxie2004.github.io)
+- 🐺 Interested in 3D-Reconstruction/Generation, LLM (Agents) Topics
 - 🐯 ^o^
 
 <!---
